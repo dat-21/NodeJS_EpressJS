@@ -1,0 +1,29 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "hoc express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dat-21/NodeJS_EpressJS.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "epressJS"
+  ],
+  "author": "datMNT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dat-21/NodeJS_EpressJS/issues"
+  },
+  "homepage": "https://github.com/dat-21/NodeJS_EpressJS#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
