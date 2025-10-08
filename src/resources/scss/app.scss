@@ -1,0 +1,11 @@
+@use './variables' as *;
+h1{
+    color: $red-color;
+}
+
+h2{
+    color: blue;
+}
+ .container {
+    color: green; // Thêm style cho div.container của bạn
+}
